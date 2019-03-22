@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single_Responsibility_Princ
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1FBBFB73-B5F1-4504-B31A-4C78725D5C3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object_Classes", "Object_Classes\Object_Classes.csproj", "{40DC87CF-30AD-47DE-AF66-6C6CCAA6940E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDLibrary", "Object_Classes\SOLIDLibrary.csproj", "{40DC87CF-30AD-47DE-AF66-6C6CCAA6940E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

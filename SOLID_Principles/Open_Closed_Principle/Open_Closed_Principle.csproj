@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Object_Classes\SOLIDLibrary.csproj">
+      <Project>{40dc87cf-30ad-47de-af66-6c6ccaa6940e}</Project>
+      <Name>SOLIDLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
